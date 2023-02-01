@@ -24,6 +24,7 @@ def get_user():
 ```
 # Result
 ```shell
+// Exemple 
 Username :  MERCER
 Password :  6969
 ```
